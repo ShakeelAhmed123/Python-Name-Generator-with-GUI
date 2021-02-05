@@ -5,11 +5,7 @@ NAMES CANNOT BE SHORTER THAN 3 CHARACTERS!
 
 Make sure you have you pre-existing names in a text file, in this particular order
 
-Name1
-Name2
-Name3
-Name4
-Name5
+![alt text](https://github.com/ShakeelAhmed123/Python-Name-Generator-with-GUI/blob/main/format.PNG)
 
 
 After doing this you will see your names in the app. If you don't then there is something wrong with the file, or the format.
@@ -23,5 +19,9 @@ Then you will see all generated names.
 Click Remove Duplicates to remove all the duplicate names.
 
 Then finally export all names to another file.
+
+Here is how it looks:
+![alt text](https://github.com/ShakeelAhmed123/Python-Name-Generator-with-GUI/blob/main/file.PNG)
+
 
 Thanks.
